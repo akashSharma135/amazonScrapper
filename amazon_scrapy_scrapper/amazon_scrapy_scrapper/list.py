@@ -1,0 +1,1 @@
+type_list = ["camera", "hoodie", "t-shirt", "mobile", "shirt"]
